@@ -178,8 +178,8 @@
 
         <Config
             Id="0x00001088" Enable="true" Target="trinket"
-            Resources="0x40C00000, 0x1, 0x40804000, 0xFFF, 0x40804100, 0xFFF, 0x40800000,0xFFF,
-                       0x40800100,0xFFF" />
+            Resources="0x40C00000, 0x2, 0x40804000, 0xFFF, 0x40804100, 0xFFF, 0x40800000,0xFFF,
+                       0x40800100,0xFFF, 0x40CA0000, 0" />
 
     <!--Rotation latency boost-->
         <!-- SCHEDBOOST resource opcode, value-->
